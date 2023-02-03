@@ -14,3 +14,5 @@ An IoT (Internet of Things) based first aid kit is a revolutionary device that c
 
 
  ![Logo](https://user-images.githubusercontent.com/102870087/216533053-d8a10648-64c1-4fea-a320-ea2ca7b156d7.png)
+ 
+[Glucolobin Entity.drawio (2).pdf](https://github.com/danishzulfiqar/GlucoKit/files/10576382/Glucolobin.Entity.drawio.2.pdf)
