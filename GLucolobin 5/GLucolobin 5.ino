@@ -25,17 +25,17 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 
 // Insert your network credentials
-#define WIFI_SSID "oppo"
-#define WIFI_PASSWORD "lkkf9082"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyAHrqEpdHvptPKg1ks1_zNghR9Bzj0qDDg"
+#define API_KEY ""
 
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://glucokit-79eb3-default-rtdb.firebaseio.com/"
+#define DATABASE_URL ""
 
-#define USER_EMAIL "danishzulfiqar100@gmail.com"
-#define USER_PASSWORD "lkkf9082"
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 //Define Firebase Data object
 FirebaseData fbdo;
